@@ -16,7 +16,7 @@ import {
 } from '@fortawesome/free-solid-svg-icons';
 import {Featured, Footer, Hero, Products} from './components';
 import { BrowserRouter as Router } from 'react-router-dom';
-import { GlobalStyle } from './globalStyels';
+import { GlobalStyle } from './globalStyles';
 import { productData, productDataTwo } from './components/Products/data';
 
 library.add(fab, faCheckSquare, faCoffee, faPlus, faCheck, faTimes, faTrash,faPizzaSlice, faHamburger, faHammer, faFrog, faCreditCard)
